@@ -8,8 +8,6 @@ public class Main extends Gastos{
         Gastos compra = new Gastos();
         Scanner scan = new Scanner(System.in);
 
-        ArrayList<String> nomedaLista = new ArrayList();
-
         do{
         System.out.println("Olá, este é o organizador de gastos!");
         System.out.println("Digite o número da opção que deseja:");
